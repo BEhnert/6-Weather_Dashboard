@@ -15,6 +15,9 @@
   ### Installation
     None needed, access via this page link - 
       
+      https://behnert.github.io/6-Weather_Dashboard/
+
+      
   ### Usage
     After navigating to home page, click on box to search for city's weather
     Input the desired city name, then click the Search icon to the right

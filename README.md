@@ -1,10 +1,11 @@
 
   # Title
-    Weather Dashboard
-  ### Description
+  Weather Dashboard
+
+  # Description
   This application will allow users to search US Cities for current weather, including 5-day forecast showing temperature, wind speed, humidity, and a UV Index.  As they search, the list of Cities will grow and become a list of easy access links to bring up previously searched cities.  A refresh of the page will bring up the last searched city's weather information.
 
-  ##### Table of Contents
+  # Table of Contents
    [Installation](#installation)
    [Usage](#usage)
    [License](#license)

@@ -8,6 +8,7 @@ var displaycUVIndex = $('#cUVIndex')
 var searchButton = $("#searchButton")
 var weatherKey = "883d437755f09951be82a0862fb92242";
 
+// Retrieves weather information for the searched city
 function searchWeather(city) {
 
     var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + weatherKey
@@ -77,7 +78,7 @@ function searchWeather(city) {
 
     
 }
-
+// Retrieves the 5-day forecast for given city
 function fiveDay(city) {
     console.log(city);
     var queryforcastURL =

@@ -16,7 +16,7 @@
   ### Installation
     None needed, access via this page link - 
       
-  [Weather Dashboard](https://behnert.github.io/6-Weather_Dashboard/)
+  [Weather Dashboard](https://behnert.github.io/Weather_Dashboard/)
 
       
   ### Usage

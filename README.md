@@ -1,4 +1,4 @@
-
+![](images/Weather_Dashboard.png)
   # Title
   Weather Dashboard
 
